@@ -107,3 +107,20 @@
     opacity: 100%;
 }
 
+.lower-text-box {
+    background-color:white;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ripoff-text {
+    color: black;
+    opacity: 100%;
+    position: relative;
+    display: flex;
+    margin-top: 5%;
+    font-weight: bolder;
+    font-size: 20px;
+}
