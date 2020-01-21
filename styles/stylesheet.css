@@ -124,3 +124,84 @@
     font-weight: bolder;
     font-size: 20px;
 }
+
+.card-holder {
+    margin-top: 50px;
+    height: 432px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box1 {
+    height: 300px;
+    width: 300px;
+    border-color: black;
+    background-color: white;
+    box-shadow: 2px 5px 5px grey;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.box1 > img {
+    height: 150px;
+    width: 275px;
+    margin-top: 10px;
+}
+
+.box1text {
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.box2 {
+    height: 300px;
+    width: 300px;
+    border-color: black;
+    background-color: white;
+    box-shadow: 2px 5px 5px grey;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.box2 > img {
+    height: 150px;
+    width: 275px;
+    margin-top: 10px;
+}
+
+.box2text {
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.box3 {
+    height: 300px;
+    width: 300px;
+    border-color: black;
+    background-color: white;
+    box-shadow: 2px 5px 5px grey;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.box3 > img {
+    height: 150px;
+    width: 275px;
+    margin-top: 10px;
+}
+
+.box3text {
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
